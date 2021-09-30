@@ -1,0 +1,23 @@
+// One of the biggest cybersecurity breaches to happen in the last 20 years was the breach that
+// happend to yahoo.com. At first it was estimated that only a billion accounts had been hacked
+// but upon further investigation it was assummed that around 3 billion accounts had been exposed
+// . Verizon was in the process of purchasing yahoo when this happened so verizon was able to make 
+// purchase at a very discounted price.
+
+// the breach was a breach that aquired the login information for over 3 billion different yahoo 
+// accounts. exposing their usernames and passwords and other sensative information that was 
+// attached to these different accounts. the motive behing the maddness was to sell the information
+// to different scammers on the dark web.
+
+// it was believed that the attack was a "state sponsored" attack. Meaning that the hack was carried
+// out by a foriegn government entity. No country had been named in specific but china and russia 
+// were both persons of interest in the case.
+
+// the people that carried out the attack used a phising method and sent emails to different yahoo 
+// employees trying to find different databases that they could use. the hackers looked for the yahoo
+// user database and the account management tool. once he found them he created a backdoor on the 
+// yahoo server so that he would have continual access to the information.
+
+// verizon bought yahoo and they said they have gone to great lengths to make sure that they are 
+// transparent with the way that they interact with users. Yahoo required new passwords when they 
+// out that the data breach had happened so that the hackers wouldnt be able to access accounts.

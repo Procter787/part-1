@@ -1,0 +1,35 @@
+// this is a simple cipher that has a set key to go along with it
+
+
+// Alphabet {
+    a = b
+    b = o 
+    c = q 
+    d = r 
+    e = i 
+    f = y 
+    g = n 
+    h = f 
+    i = h 
+    j = t 
+    k = k 
+    l = m 
+    m = w 
+    n = d 
+    o = a 
+    p = u 
+    q = e 
+    r = g 
+    s = p 
+    t = j 
+    u = s 
+    v = z 
+    w = x 
+    x = c 
+    y = l 
+    z = v
+
+
+}
+
+// I love cyptography = HMAZIQGUJANGBUFL
